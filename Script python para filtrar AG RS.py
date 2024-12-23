@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# URL fornecida (modifique para o link correto)
+# URL fornecida (modifique para o link de sua preferencia)
 url = "https://lnxrobs.github.io/select_script.html/"
 
 # Fazer o download do HTML da página
